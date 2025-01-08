@@ -1,0 +1,16 @@
+Git Desktop 
+In file i choose options then went to Git
+Name: Faika-Khan
+Email: khanfaika2005@gmail.com
+Default branch name for new repositories :main
+
+.gitconfig
+[filter "1fs"]
+required = true
+clean = git-1fs clean --%f
+smudge = git-1fs filter-process
+[user]
+name = Faika-Khan
+email = khanfaika2005@gmail.com
+
+https://faika-khan.github.io/Furniture/
